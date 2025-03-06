@@ -1,2 +1,0 @@
-# educational-platform
-website
